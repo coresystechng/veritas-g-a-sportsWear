@@ -34,20 +34,20 @@
 
 }
 
-.shirt1{
+.cloth1{
     padding-top: 100px;
 }
 
-.shirt1 img{
+.cloth1 img{
     border: 2px solid black;
 }
 
-.shirt1 p{
+.cloth1 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
 }
 
-.shirt1 button{
+.cloth1 button{
     width: 235px;
     text-align: center;
     font-family: cursive;
@@ -56,21 +56,21 @@
 }
 
 
-.shirt2{
+.cloth2{
     padding-top: 100px;
     padding-left: 50px;
 }
 
-.shirt2 img{
+.cloth2 img{
     border: 2px solid black;
 }
 
-.shirt2 p{
+.cloth2 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
 }
 
-.shirt2 button{
+.cloth2 button{
     width: 235px;
     text-align: center;
     font-family: cursive;
@@ -79,21 +79,21 @@
 }
 
 
-.shirt3{
+.cloth3{
     padding-top: 100px;
     padding-left: 50px;
 }
 
-.shirt3 img{
+.cloth3 img{
     border: 2px solid black;
 }
 
-.shirt3 p{
+.cloth3 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
 }
 
-.shirt3 button{
+.cloth3 button{
     width: 235px;
     text-align: center;
     font-family: cursive;
@@ -104,23 +104,23 @@
 
 
 
-.shirt4{
+.cloth4{
     padding-top: 100px;
     padding-left: 50px;
 }
 
-.shirt4 img{
+.cloth4 img{
     border: 2px solid black;
     width: 235px;
     height: 6cm;
 }
 
-.shirt4 p{
+.cloth4 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
 }
 
-.shirt4 button{
+.cloth4 button{
     width: 235px;
     text-align: center;
     font-family: cursive;
@@ -149,4 +149,36 @@
     font-family: cursive;
     text-decoration: underline;
 
+}
+
+.i2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+
+.cloth2b{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.cloth2b img{
+    border: 2px solid black;
+    height: 6cm;
+}
+
+.cloth2b p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.cloth2b button{
+    width: 235px;
+    text-align: center;
+    font-family: cursive;
+    background-color: orange;
+    border-radius: 20px;
 }
