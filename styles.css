@@ -20,3 +20,133 @@
     text-decoration: none;
 
 }
+
+.shirt{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shirt h1{
+    font-family: cursive;
+    text-decoration: underline;
+
+}
+
+.shirt1{
+    padding-top: 100px;
+}
+
+.shirt1 img{
+    border: 2px solid black;
+}
+
+.shirt1 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.shirt1 button{
+    width: 235px;
+    text-align: center;
+    font-family: cursive;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+
+.shirt2{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.shirt2 img{
+    border: 2px solid black;
+}
+
+.shirt2 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.shirt2 button{
+    width: 235px;
+    text-align: center;
+    font-family: cursive;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+
+.shirt3{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.shirt3 img{
+    border: 2px solid black;
+}
+
+.shirt3 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.shirt3 button{
+    width: 235px;
+    text-align: center;
+    font-family: cursive;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+
+
+
+.shirt4{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.shirt4 img{
+    border: 2px solid black;
+    width: 235px;
+    height: 6cm;
+}
+
+.shirt4 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.shirt4 button{
+    width: 235px;
+    text-align: center;
+    font-family: cursive;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.pants{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.pants h1{
+    font-family: cursive;
+    text-decoration: underline;
+
+}
