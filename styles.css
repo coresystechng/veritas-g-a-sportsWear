@@ -60,6 +60,11 @@
 }
 
 
+.cloth1 button:hover{
+    background-color: white;
+}
+
+
 .cloth2{
     padding-top: 100px;
     padding-left: 50px;
@@ -83,6 +88,11 @@
 }
 
 
+.cloth2 button:hover{
+    background-color: white;
+}
+
+
 .cloth3{
     padding-top: 100px;
     padding-left: 50px;
@@ -103,6 +113,10 @@
     font-family: cursive;
     background-color: orange;
     border-radius: 20px;
+}
+
+.cloth3 button:hover{
+    background-color: white;
 }
 
 
@@ -130,6 +144,11 @@
     font-family: cursive;
     background-color: orange;
     border-radius: 20px;
+}
+
+
+.cloth4 button:hover{
+    background-color: white;
 }
 
 .images{
@@ -186,6 +205,11 @@
     background-color: orange;
     border-radius: 20px;
 }
+
+.cloth2b button:hover{
+    background-color: white;
+}
+
 
 body{
     background-color: lightgray;
