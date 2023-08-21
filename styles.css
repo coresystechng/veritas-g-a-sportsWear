@@ -299,6 +299,7 @@ footer .input input{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-bottom: 35px;
 }
+<<<<<<< HEAD
 main div.cat h2{
     padding-top: 50px;
     text-align: center;
@@ -335,3 +336,74 @@ main div.rat p{
     padding-left: 6px;
     padding-top: 10px;
 }
+=======
+/* landingPage */
+.bodyTwo{
+    background-image:linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url(../veritas-g-a-sportsWear/landingImg/sports-brands.jpg);
+    background-size: cover;
+}
+.logoContainer{
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.brandName{
+    color: white;
+    display: inline;
+    font-family:sans-serif;
+}
+.brandName span{
+    color: orange;
+    font-size: 50px;
+}
+.headingLinks{
+    display: inline;
+    padding-left: 60px;    
+}
+.headingContainer ul{
+    display: inline;
+}
+.linkContainers{
+    display: inline-block;
+    padding-left: 750px;
+}
+a{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+a:hover{
+    color: orange;
+}
+.content h1{
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    color: white;
+}
+.content h1 span{
+    color: orange;
+}    
+.content p{
+    color: white;
+}
+.content button{
+    color: white;
+    background-color:rgb(255, 115, 0);
+    height: 50px;
+    width: 300px;
+    border-radius: 10%;
+    border: 4px white solid;
+}
+.content button a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.content button:hover{
+    border: none;
+}
+.content{
+    padding-top: 150px;
+}
+>>>>>>> 012697d1e36a26148e13c3c6f777a461be25037a
